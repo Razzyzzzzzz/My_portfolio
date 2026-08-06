@@ -1,4 +1,4 @@
-# Joshua P. Deregla — Portfolio
+
 
 A modern, responsive React.js portfolio website.
 
